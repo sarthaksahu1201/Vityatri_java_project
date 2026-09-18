@@ -3,6 +3,7 @@
 ### Student Details
 - **Name**: Sarthak Sahu
 - **Registration Number**: 24BCY10245
+- **Last Updated**: September 2026
 
 # Project Overview
 This Campus Course & Records Manager (CCRM) is a simple Java console application designed to manage students, courses, and enrollments. The project follows a modular structure with separate packages for CLI (MainMenu), domain models (Student, Course, Enrollment, etc.), services (StudentService, CourseService, EnrollmentService), and utilities (FileUtil). Users can add and list students or courses, enroll students in courses, view enrollments, and perform file backup operations. The implementation is based on object-oriented principles with a layered architecture, making the code clean, organized, and easy to extend in the future (e.g., database integration via JDBC).
