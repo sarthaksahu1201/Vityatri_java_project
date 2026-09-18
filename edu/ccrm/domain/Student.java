@@ -42,3 +42,4 @@ public void updateDetails(String newName, String newEmail) {
     this.email = newEmail;
 }
 }
+// Last updated: September 2026

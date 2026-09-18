@@ -52,3 +52,4 @@ public class Course {
         return code.getCode() + " - " + title + " (" + credits + " cr)";
     }
 }
+// Last updated: September 2026

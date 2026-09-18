@@ -11,3 +11,4 @@ public final class CourseCode {
         return code;
     }
 }
+// Last updated: September 2026
