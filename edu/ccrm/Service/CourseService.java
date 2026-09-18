@@ -33,3 +33,4 @@ public class CourseService {
                 .collect(Collectors.toList());
     }
 }
+// Last updated: September 2026

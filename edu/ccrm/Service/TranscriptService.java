@@ -37,3 +37,4 @@ public class TranscriptService {
     }
 }
 // Note: You will need to add a getCredits() method to your Course.java class.
+// Last updated: September 2026
