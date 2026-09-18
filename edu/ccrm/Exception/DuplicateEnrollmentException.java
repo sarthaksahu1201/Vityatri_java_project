@@ -5,3 +5,4 @@ public class DuplicateEnrollmentException extends Exception {
         super(message);
     }
 }
+// Last updated: September 2026
