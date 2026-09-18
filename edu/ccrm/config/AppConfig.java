@@ -17,3 +17,4 @@ public class AppConfig {
         return dataFolder;
     }
 }
+// Last updated: September 2026
